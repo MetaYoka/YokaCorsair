@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="121px" viewBox="0 0 121 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg_stare@2x</title>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-1">
+            <stop stop-color="#FFD36D" offset="0%"></stop>
+            <stop stop-color="#F5A814" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Level-1-more" transform="translate(-123.000000, -595.000000)">
+            <g id="bg_stare" transform="translate(123.000000, 595.000000)">
+                <g transform="translate(1.000000, 1.000000)" id="o">
+                    <circle fill="#FFDC30" cx="59.5" cy="59.5" r="59.5"></circle>
+                    <circle fill="url(#radialGradient-1)" cx="59.5" cy="59.5" r="48"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
